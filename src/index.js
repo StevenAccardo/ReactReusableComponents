@@ -1,6 +1,6 @@
 import React from 'react';
 import { render } from 'react-dom';
 import App from './components/app';
-import '../styles/main.css';
+import '../styles/main.scss';
 
 render(<App />, document.getElementById('app'));
